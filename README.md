@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prabin738&theme=onedark)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prabin738&theme=onedark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=prabin738)](https://git.io/streak-stats)
