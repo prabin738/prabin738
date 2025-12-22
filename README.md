@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prabin738" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabin738)](https://git.io/streak-stats)
