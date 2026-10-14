@@ -137,3 +137,17 @@ I'm a **MERN stack developer** who ships mobile apps to the Play Store and the b
   <b>Need a mobile app, a dashboard or an API built?</b> I'm open to full-time, part-time and contract work.<br />
   <a href="https://wa.me/9779866498278">Let's talk on WhatsApp</a> · <a href="mailto:prabinsingh750@gmail.com">Email me</a> · <a href="https://prabinsinghthakuri.com.np">See my portfolio</a>
 </p>
+
+<p align="center">
+  <sub>
+    Built with
+    <a href="https://github.com/badges/shields">Shields.io</a> ·
+    <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> ·
+    <a href="https://github.com/simple-icons/simple-icons">Simple Icons</a> ·
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a> ·
+    <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> ·
+    <a href="https://github.com/Platane/snk">Platane/snk</a> ·
+    <a href="https://github.com/abozanona/pacman-contribution-graph">Pac-Man Contribution Graph</a>.
+    Thanks to their authors and contributors.
+  </sub>
+</p>
