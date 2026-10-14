@@ -123,6 +123,14 @@ I'm a **MERN stack developer** who ships mobile apps to the Play Store and the b
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabin738/prabin738/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabin738/prabin738/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating the contribution graph" src="https://raw.githubusercontent.com/prabin738/prabin738/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
