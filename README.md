@@ -69,6 +69,8 @@ I'm a **MERN stack developer** who ships mobile apps to the Play Store and the b
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,figma,vscode" alt="Git, GitHub, GitHub Actions, Vercel, Postman, Figma, VS Code" />
   <br />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Fetch_API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Fetch API" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Console" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
