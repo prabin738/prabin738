@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabin738&color=0A66C2&style=flat-square&label=Profile+views" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open_to-Full--time_%7C_Part--time_%7C_Contract-2ea44f?style=flat-square" alt="Open to work" />
 </p>
 
